@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hastings Sibanda
-- 👀 I’m interested in Java EE
-- 🌱 I’m currently learning Core Java
-- 💞️ I’m looking to collaborate on enterprise applications running on Java
+- 👀 I’m interested in Machine Learning and Big Data
+- 🌱 I’m currently learning Data Science on Azure
+- 💞️ I’m looking to collaborate on ML and AI projects
 - 📫 How to reach me ...@hastingssbnd5@gmail.com
 
 <!---
