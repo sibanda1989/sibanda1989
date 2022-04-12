@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hastings Sibanda
-- 👀 I’m interested in Machine Learning and Big Data
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Data Science on Azure
-- 💞️ I’m looking to collaborate on ML and AI projects
+- 💞️ I’m looking for opportunities in Data Science and Analytics
 - 📫 How to reach me ...@sibanda.hastings@gmail.com
 
 <!---
